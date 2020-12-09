@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/loldoordashisfun/PartsUnlimited/_apis/build/status/sudeepcb.ContosoAir?branchName=master)](https://dev.azure.com/loldoordashisfun/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
